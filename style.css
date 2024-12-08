@@ -1,0 +1,62 @@
+*{
+  margin:0;
+  padding:0;
+  font-family: sans-serif;
+}
+
+
+.head{
+  background: royalblue;
+  color:Black;
+  padding: 10px;
+}
+
+span{
+  color: yellow 
+  
+}
+
+.para1{
+  font-size: 16px
+  padding: 10px;
+}
+.main1{
+  background: cornsilk;
+  padding:10px;
+  margin-top: 20px
+}
+h2{
+  color:black;
+  margin-left: 10px
+ 
+}
+p{
+  color: black;
+  margin-left: 10px;
+  padding: 10px;
+  
+}
+.main2{
+  background : cornsilk;
+  padding: 10px;
+  margin-top: 20px
+}
+
+.main3{
+  background: cornsilk;
+  padding:10px;
+  margin-top: 20px;
+}
+
+.main4{
+  background: cornsilk;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.main5{
+  background: cornsilk;
+  color: black;
+  padding: 10px;
+  margin-top: 20px
+}
